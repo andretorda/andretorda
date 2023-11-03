@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andre!  A <a href="https://www.linkedin.com/in/andretorda/">Finance Analyst</a>, and a Data Analyst
+<h1>Hi, I'm Andre!  A Data Analyst focused in <a href="https://www.linkedin.com/in/andretorda/">Finance</a>
 
 <h2>🎖 Certifications:</h2>
 

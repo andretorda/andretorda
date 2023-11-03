@@ -2,7 +2,7 @@
 
 <h2>🎖 Certifications:</h2>
 
-  - [IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/certificate/2HA8YA6SKXML)
+  - [IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2YNRLSPWHME3)
   - [Data-Driven Decisions with PowerBI](https://www.coursera.org/account/accomplishments/verify/BVHS6J83K5YM)
   - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/NYQLJ67BF8WQ)
   - [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/andretorda-7817/credentials/55ddbeee4655ec96)

@@ -7,6 +7,7 @@
   - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/NYQLJ67BF8WQ)
   - [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/andretorda-7817/credentials/55ddbeee4655ec96)
   - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/andretorda-7817/credentials/2f8361f8cc32744c)
+  - [Google Project Management: Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/67LTZZCCFD2D)
 
 <h2>📜 Projects:</h2>
 
